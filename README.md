@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SameFate
 - 👀 I’m interested in video games and dancing.
-- 🌱 I’m currently learning all kinds of stuff at university!
+- 🌱 I’m currently learning all kinds of stuff about programming and video games at university!
 - 📫 same.fate98@gmail.com
 
 <!---
